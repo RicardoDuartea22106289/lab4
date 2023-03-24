@@ -24,4 +24,13 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.animacao {
+    width: auto;
+    transition: with 2s;
+}
+
+.animacao:hover{
+    width: 300px;
+}
     
